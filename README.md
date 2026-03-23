@@ -113,4 +113,4 @@ B.E. Computer Science | Matoshri College of Engineering, Nashik
 
 ---
 
-> 💡 *Built during 45-day internship at R3 Systems, Nashik (2024)*
+> 💡 *Built during 45-day internship at R3 Systems, Nashik (2026)*
