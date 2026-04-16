@@ -226,7 +226,7 @@ with st.expander("📋 Data Preview", expanded=False):
     st.dataframe(df.head(10), use_container_width=True)
 
 with st.expander("📈 Summary Statistics", expanded=False):
-    st.dataframe(df.describe().T.style.background_gradient(cmap="Reds"), use_container_width=True)
+    st.dataframe(df.describe().T, use_container_width=True)
 
 st.write("### Correlation Heatmap")
 corr = df.corr()
